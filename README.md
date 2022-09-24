@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Ade
+<p>
+
+  <h1 align="center"><b> 👋 Hi there, I'm Ade <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+
+</p>
+
 - 👀 I’m interested in Devops and Web Development
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on projects as an Intern, and also be part of an awesome community of Developers
